@@ -1,3 +1,10 @@
+========================  LEIAME VS GESTOR_Z_13.17.X_2021-01-28_01  =====================================
+
+	*ADICIONADO CAMPOS DE IMPOSTOS NOTA FISCAL ENTRADA PARA ATENDER NOTA FISCAL DE SERVIÇOS
+
+
+	<<<SCRIPTS NECESSARIOS>>>
+		2021-02-05_ADD_Campos_NF_Servico_NF_ENTRADA
 
 ========================  LEIAME VS GESTOR_Z_13.16.X_2021-01-28_01  =====================================
 
