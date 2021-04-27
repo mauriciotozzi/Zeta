@@ -1,3 +1,8 @@
+========================  LEIAME VS GESTOR_Z_13.18.0_2021-04-20_01  =====================================
+
+	*EQUALIZAÇÃO DOS CLIENTES.
+
+
 ========================  LEIAME VS GESTOR_Z_13.17.X_2021-01-28_01  =====================================
 
 	*ADICIONADO CAMPOS DE IMPOSTOS NOTA FISCAL ENTRADA PARA ATENDER NOTA FISCAL DE SERVIÇOS
