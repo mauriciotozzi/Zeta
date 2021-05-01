@@ -1,3 +1,7 @@
+=============  LEIAME VS GESTOR_Z_14.0.1_2021-05-01_02  =======================
+
+	*ATUALIZAÇÃO DE MECANISMO DE UPDATE.
+
 =============  LEIAME VS GESTOR_Z_13.18.0_2021-04-20_01  =======================
 
 	*EQUALIZAÇÃO DOS CLIENTES.
