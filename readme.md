@@ -9,17 +9,17 @@
 	
 	<<<SCRIPTS NECESSARIOS>>>
            
-           2022-08-15_CREATE_CON_PEDIDO_ITENS_COM_DATA_PEDIDO.sql   
-	   2022-05-20_ALTER_TABLE_CFOP_ADD_Aproveitamento_Simples.sql
-           2022-05-19_ALTER_TABLE_ADD_CRED_ICMS.sql	
-	   2022-05-12_CREATE_TABLE_MOV_DEPOSITOS_HISTORICO.sql
+       2022-08-15_CREATE_CON_PEDIDO_ITENS_COM_DATA_PEDIDO.sql   
+       2022-05-20_ALTER_TABLE_CFOP_ADD_Aproveitamento_Simples.sql
+       2022-05-19_ALTER_TABLE_ADD_CRED_ICMS.sql	
+       2022-05-12_CREATE_TABLE_MOV_DEPOSITOS_HISTORICO.sql
 
 	<<<RELATÓRIOS NECESSARIOS>>>
            
            Orcamento.rpt
-           Orcamento_Simples.rpt
-           Orcamento_Gerencial.rpt  
-           Pedido_do_Orcamento.rpt
+	   Orcamento_Simples.rpt
+	   Orcamento_Gerencial.rpt  
+	   Pedido_do_Orcamento.rpt
 
 =============  LEIAME VS GESTOR_Z_17.6.X_2022-02-03_01  =======================`
 	
