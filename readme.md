@@ -4,7 +4,7 @@
 	* FICHA TÉCNICA COM MELHORIAS EM ROTEIROS E ETAPAS
 	* PREENCHIMENTO DE COTAÇÃO DE COMPRA BASEADO EM HISTÓRICO
         * MELHORIAS DE FILTROS EM COTAÇÃO
-        * RASTREAMENTO DE HISTÓRICO DE ALTERAÇÃO DE NOTAS DE ENTRADA
+	* RASTREAMENTO DE HISTÓRICO DE ALTERAÇÃO DE NOTAS DE ENTRADA
 	* MELHORIAS EM RELATÓRIOS
 	
 	<<<SCRIPTS NECESSARIOS>>>
@@ -18,7 +18,7 @@
            
            Orcamento.rpt
 	   Orcamento_Simples.rpt
-	   Orcamento_Gerencial.rpt  
+	   Orcamento_Gerencial.rpt
 	   Pedido_do_Orcamento.rpt
 
 =============  LEIAME VS GESTOR_Z_17.6.X_2022-02-03_01  =======================`
