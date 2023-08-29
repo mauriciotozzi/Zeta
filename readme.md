@@ -1,3 +1,13 @@
+
+=============  LEIAME VS GESTOR_Z_18.4.X_2023-08-28_01  =======================
+	
+	* NOVO CAMPO DE RASTREIO DE VALOR NA COTAÇÃO
+	
+	<<<SCRIPTS NECESSARIOS>>>
+		2023-08-28_ADD_Compras_Cotacao.sql
+        	
+	<<<RELATÓRIOS NECESSARIOS>>>
+
 =============  LEIAME VS GESTOR_Z_18.0.X_2023-05-19_01  =======================
 	
 	* LIBERAÇÃO DO MODULO DE EMISSÃO DE CERTIFICADO DE QUALIDADE
