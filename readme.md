@@ -1,4 +1,13 @@
 
+
+=============  LEIAME VS GESTOR_Z_18.6.X_2023-10-05_01  =======================
+	
+	* ADAPTANDO OS CALCULOS DE ICMS NA NOTA FISCAL, DE ACORDO COM A NOVA LEGISLAÇÃO E CRT = 2
+	
+	<<<SCRIPTS NECESSARIOS>>>
+      	
+	<<<RELATÓRIOS NECESSARIOS>>>
+
 =============  LEIAME VS GESTOR_Z_18.4.X_2023-08-28_01  =======================
 	
 	* NOVO CAMPO DE RASTREIO DE VALOR NA COTAÇÃO
