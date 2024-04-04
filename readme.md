@@ -1,3 +1,15 @@
+
+
+=============  LEIAME VS GESTOR_Z_18.9.X_2024-04-04_01  =======================
+	
+	*MELHORIA NOS FILTROS NOS ITENS. EVITANDO ERROS POR DUPLICIDADE.
+	
+	<<<SCRIPTS NECESSARIOS>>>
+		2024-04-04_ADD_NFItens-Calculos-Automatizados.sql
+      	
+	<<<RELATÓRIOS NECESSARIOS>>>
+ 
+
 =============  LEIAME VS GESTOR_Z_18.8.X_2024-02-26_01  =======================
 	
 	*MELHORIA NOS FILTROS NOS ITENS. EVITANDO ERROS POR DUPLICIDADE.
