@@ -1,3 +1,14 @@
+=============  LEIAME VS GESTOR_Z_19.5.X  =======================
+	
+	* ADICIONAMOS UM NOVO RELATÓRIO DE PEDIDO DE COMPRAS, AGRUPADOS POR CENTRO DE CUSTO
+	*MELHORIAS DE PERFORMANCE NO MÓDULO DE PRODUÇÃO, REDUZINDO O TEMPO DE CARREGAMENTO PARA 1/3
+	
+	<<<SCRIPTS NECESSARIOS>>>
+				
+      	
+	<<<RELATÓRIOS NECESSARIOS>>>
+		Pedido_Compras_por_Centro_Custo.rpt
+
 
 =============  LEIAME VS GESTOR_Z_19.4.X  =======================
 	
