@@ -1,4 +1,14 @@
 
+=============  LEIAME VS GESTOR_Z_19.7.X  =======================
+	
+	* CRIADO FILTRO PARA SEPARAÇÃO DE COMERCIAL 
+	
+	<<<SCRIPTS NECESSARIOS>>>
+ 		2025-05-30_FILTRAR_COMERCIAL_POR_USUARIO.sql
+ 		
+				
+	<<<RELATÓRIOS NECESSARIOS>>>
+
 
 =============  LEIAME VS GESTOR_Z_19.6.X  =======================
 	
