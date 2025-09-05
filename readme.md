@@ -1,4 +1,13 @@
 
+=============  LEIAME VS GESTOR_Z_19.10.X  =======================
+	
+	* ADEQUAÇÃO A NT NT2025.001 - QUANTO AOS CAMPOS DE DUPLICATAS
+	
+	<<<SCRIPTS NECESSARIOS>>>
+ 		
+				
+	<<<RELATÓRIOS NECESSARIOS>>>
+
 =============  LEIAME VS GESTOR_Z_19.7.X  =======================
 	
 	* CRIADO FILTRO PARA SEPARAÇÃO DE COMERCIAL 
